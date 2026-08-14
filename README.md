@@ -11,7 +11,7 @@ This is my journey in 100 Days of python.
 | 03 | Treasure Island | ✅ | Conditional (if/else) |
 | 04 | Rock, Paper & Scissors | ✅ | Randomization, Lists | 
 | 05 | Password Generator | ✅ | For Loops, Range |
-| ... | ... | ... | ... |
+| 06 | Hangmans Game | ✅ | While loops, range, lists |
 
 ## 🛠️ Technologies
 * Python 3.x
